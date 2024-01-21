@@ -4,7 +4,6 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 </div>
 
----
 # Table of contents
 1. [Screenshots](#Screenshots)
 2. [Tech Stack](#Stack)
@@ -15,7 +14,6 @@
 7. [License](#License)
 <div id="Screenshots">
 
----
 ## Screenshots
 
 ### Menu:
