@@ -50,7 +50,7 @@
 Clone the project
 
 ~~~bash
-git clone https://link-to-project
+git clone https://github.com/ka9mal6t/controler_server_cs_1_6.git
 ~~~
 
 Go to the project directory
